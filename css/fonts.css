@@ -1,0 +1,10 @@
+@charset "UTF-8";
+/* Noto Sans Kr */
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap");
+/* 경북대 진리체 */
+@font-face {
+  font-family: "KNUTRUTHTTF";
+  src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2312-1@1.1/KNUTRUTHTTF.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
