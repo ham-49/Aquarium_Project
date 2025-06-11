@@ -162,7 +162,7 @@
           >a {
             color: rgba($maincolor, 100%);
             position: relative;
-
+            
             &::after {
               content: "";
               position: absolute;
@@ -183,7 +183,6 @@
 
 
         }
-
         .sub-menu-list-content {
           flex: 7;
           overflow: hidden;
